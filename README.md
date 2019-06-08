@@ -15,7 +15,9 @@ Complete one(Or more!) assignment(s) from below list:
 
 ## How to submit:
 
-Upload your code to your GitHub account, along with a text file(say: readme.txt) describing:
+Create your [GitHub account](https://github.com/), if not having already. Then, in your GitHub account, create a project/repository titled with assignment name.
+
+Push/upload your code to the project you just created, along with a text file(say: readme.txt) describing:
    - Assignment no.
    - Assignment title/description.
    - What tasks you have completed and your approach(3-4 lines max).
