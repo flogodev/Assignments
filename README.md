@@ -31,6 +31,10 @@ After uploading, write back to us at 'flogo.dev**AT**gmail**DOT**com' with:
    
         + Your USN(University Student No.)
         
+        + Your branch(Ex: Computer Science, Electronics & Comm. etc).
+        
+        + College name.
+        
         + Link to your GitHub project/repository.
          
         + Content of readme.txt file(Described above)
