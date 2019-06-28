@@ -22,7 +22,7 @@ Push/upload your code to the project you just created, along with a text file(sa
    - Assignment title/description.
    - What tasks you have completed and your approach(3-4 lines max).
    
-After uploading, write back to us at 'flogo.dev**AT**gmail**DOT**com' with:
+After uploading, write back to us at 'tech**AT**flogo**DOT**in' with:
    - Subject: "Flogo: assignment-name"
          
         **For example:**  Flogo:Assignment-1 : India Map 
